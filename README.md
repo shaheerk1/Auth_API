@@ -1,7 +1,7 @@
 # Auth_API
 A node authentication API with JWT configurations
 
-#pre configurations
+# pre configurations
 This won't work without the .env file
 
 so create a .env file and assign these two values,
